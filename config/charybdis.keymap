@@ -17,7 +17,7 @@
         evt-type = <INPUT_EV_REL>;
         x-input-code = <INPUT_REL_X>;
         y-input-code = <INPUT_REL_Y>;
-        scale-multiplier = <2>;
+        scale-multiplier = <3>;
         scale-divisor = <5>;
 
         // bindings = <&ib_toggle_layer 7>;
@@ -32,7 +32,7 @@
         evt-type = <INPUT_EV_REL>;
         x-input-code = <INPUT_REL_X>;
         y-input-code = <INPUT_REL_Y>;
-        scale-multiplier = <1>;
+        scale-multiplier = <3>;
         scale-divisor = <12>;
     };
 
